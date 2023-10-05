@@ -1,0 +1,9 @@
+numpy
+matplotlib
+keras
+tensorflow
+Theano
+
+встроенные в python:
+random
+json
